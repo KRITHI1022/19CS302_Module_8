@@ -11,6 +11,7 @@ bc cd ab
 cd ab bc
 cd bc ab
 Note: There may be two or more of the same string as elements of .
+
 ## For example, s=[ab,bc,cd]. Only one instance of a permutation where all elements match should be printed. In other words, if s[0]==s[1], then print either s[0]  or s[1] but not both.
 
 A three element array having three distinct elements has six permutations as shown above. In this case, there are three matching pairs of permutations where ab and ba are switched. We only print the three visibly unique permutations:
