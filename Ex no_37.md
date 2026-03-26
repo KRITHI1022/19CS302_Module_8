@@ -15,6 +15,7 @@ To write a program to print the sum of the integers in the array.
 5. Ask the user to make an input.
 6. Print out the answer.
 7. End.
+
 ## PROGRAM:
 ```
 #include<stdio.h>
